@@ -1,7 +1,9 @@
 
 # Jim's First Elm App!
 
-Most of this code was taken from the Elm TodoMVC example - https://github.com/evancz/elm-todomvc
+<img src="./jims-elm-screenshot.png" width="300px" height="auto"/>
+
+Heavily inspired by the Elm TodoMVC example - https://github.com/evancz/elm-todomvc
 
 Try it here! - https://evancz.github.io/elm-todomvc
 
