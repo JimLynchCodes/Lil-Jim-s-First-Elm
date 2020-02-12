@@ -23,3 +23,7 @@ elm make src/Main.elm --output=elm.js
 ```
 
 Then open `index.html` in your browser!
+
+## Installing Elm
+
+If you don't have Elm installed yet, just download and run one of the installers here: https://guide.elm-lang.org/install/elm.html
